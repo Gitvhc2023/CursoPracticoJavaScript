@@ -562,7 +562,9 @@ Al cerrar este módulo qué otras pruebas o retos te han servido a ti para mejor
 Crea el tutorial [aquí](https://platzi.com/clases/javascript-practico/add_contribution/) y comparte el enlace en los comentarios de esta clase. Ten en cuenta:
 * Título del tutorial y una breve introducción para enganchar. Con esto quien lo lee sabrá si es o no de su interés. Te recomiendo iniciar el título con la palabra cómo. También puedes agregar qué requisitos se necesitan para hacerlo ej, un programa especial.
 * Título y descripción del paso a paso. Sé directo y conciso. Puedes acompañarlo con imágenes,
-> ###tutorial### [leyOhm](https://platzi.com/tutoriales/3271-javascript-practico/27478-ley-de-ohm/)
+> **tutorial**
+> [leyOhm](https://platzi.com/tutoriales/3271-javascript-practico/27478-ley-de-ohm/)
+
 ## Quiz prueba de JavaScript 
 
 1. Los ciclos while primero ejecutan y después validan su condicional. Mientras que los ciclos do while primero validan su condición y luego sí ejecutan su bloque de código.
